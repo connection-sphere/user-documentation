@@ -2,19 +2,19 @@
 
 ![Integrations Overview](../assets/openai-01.png)
 
-OpenAI is the brain behind your outreach. By integrating it with MassProspecting, you leverage advanced LLMs (Large Language Models) to generate hyper-personalized first lines and intelligent replies. It also analyzes lead signals to score and prioritize who is most likely to engage, transforming your outreach from generic blasts into meaningful, context-aware conversations.
+OpenAI is the brain behind your outreach. By integrating it with ConnectionSphere, you leverage advanced LLMs (Large Language Models) to generate hyper-personalized first lines and intelligent replies. It also analyzes lead signals to score and prioritize who is most likely to engage, transforming your outreach from generic blasts into meaningful, context-aware conversations.
 
 ## Step-by-Step Connection Guide
 
 ### 1. Access the Integrations Page
-Navigate to the OpenAI integration page in your MassProspecting dashboard:
-**https://massprospecting.com/app/integrations/openai**
+Navigate to the OpenAI integration page in your ConnectionSphere dashboard:
+**https://connectionsphere.com/app/integrations/openai**
 
 ### 2. Check Available Slots
 On the integrations page, you'll see the status of the OpenAI service. The interface shows:
 
 *   **Self-service slots (`self`)**: Available for your own API connections.
-*   **DFY slots (`dfy` or `#y`)**: Managed by the MassProspecting team.
+*   **DFY slots (`dfy` or `#y`)**: Managed by the ConnectionSphere team.
 
 ![Connected OpenAI Status](../assets/openai-03.png)
 
@@ -36,7 +36,7 @@ A modal will appear prompting you to enter your OpenAI API Key.
 2.  Sign in to your account.
 3.  Click on your profile icon in the top-right corner and select **View API keys**.
 4.  On the API keys page, click **Create new secret key**.
-5.  Copy the generated key **immediately** and paste it into the field in MassProspecting.
+5.  Copy the generated key **immediately** and paste it into the field in ConnectionSphere.
 6.  Click **Connect OpenAI** to complete the connection.
 
 > **Important:** Your API key is like a password. Store it securely and never share it publicly. For detailed OpenAI API documentation, visit their official guide: [OpenAI API Docs](https://platform.openai.com/docs/api-reference).
@@ -57,6 +57,6 @@ This integration supercharges your campaigns:
 
 *   **API Key Issues:** Ensure the key was copied correctly and is active. Check your OpenAI account for any usage limits or issues.
 *   **Billing:** Confirm your OpenAI account has a valid payment method added to process API requests.
-*   **No Personalization:** Verify the integration is connected and active in your MassProspecting settings.
+*   **No Personalization:** Verify the integration is connected and active in your ConnectionSphere settings.
 
 For problems with **DFY slots**, contact our support team, as we manage those connections for you.

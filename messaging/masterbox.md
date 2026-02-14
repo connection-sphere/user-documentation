@@ -7,8 +7,8 @@ MasterBox is your centralized command center for all prospect conversations. Thi
 ## Step-by-Step Conversation Management Guide
 
 ### 1. Access Your Campaigns
-Navigate to the campaigns page in your MassProspecting dashboard:
-**https://massprospecting.com/app/campaigns**
+Navigate to the campaigns page in your ConnectionSphere dashboard:
+**https://connectionsphere.com/app/campaigns**
 
 ### 2. Locate Your Campaign
 Find the campaign containing the conversations you want to manage from your list of existing campaigns.

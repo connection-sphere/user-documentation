@@ -1,12 +1,12 @@
 # Creating a New Campaign
 
-Setting up a new campaign is quick and easy with MassProspecting.
+Setting up a new campaign is quick and easy with ConnectionSphere.
 
 ---
 
 ## Steps
 
-1. Go to [massprospecting.com/app/agency/new](https://massprospecting.com/app/agency/new).  
+1. Go to [connectionsphere.com/app/agency/new](https://connectionsphere.com/app/agency/new).  
 
 2. **Step 2: Define Your Target**  
    - Enter the job positions you want to target (e.g., CEO, Owner, Founder).  

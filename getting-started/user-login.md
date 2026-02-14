@@ -1,16 +1,16 @@
 # Logging In
 
-Accessing your MassProspecting account is simple and secure.
+Accessing your ConnectionSphere account is simple and secure.
 
 ---
 
 ## Steps
 
-1. Go to [massprospecting.com/login](https://massprospecting.com/login)  
+1. Go to [connectionsphere.com/login](https://connectionsphere.com/login)  
 2. Enter your email address and password.  
 3. Click the **Login** button.  
 
-![Login to MassProspecting](../assets/login-01.png)
+![Login to ConnectionSphere](../assets/login-01.png)
 
 ---
 

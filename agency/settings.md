@@ -12,7 +12,7 @@ The primary setting in the agency service is the **user's name**. This name is u
 
 ## Accessing the Settings Screen
 
-1. Navigate to the agency dashboard at [massprospecting.com/app/agency](https://massprospecting.com/app/agency).  
+1. Navigate to the agency dashboard at [connectionsphere.com/app/agency](https://connectionsphere.com/app/agency).  
 2. Locate the **cog icon** in the top-right corner of the dashboard.  
    - Click the icon to open the settings screen.  
 

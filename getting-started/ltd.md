@@ -1,6 +1,6 @@
 # 📣 LTD Not Available Yet – But Here's What to Expect
 
-Thanks for your interest in MassProspecting's Lifetime Deal (LTD)! 🙏
+Thanks for your interest in ConnectionSphere's Lifetime Deal (LTD)! 🙏
 
 We’ve had a lot of people ask when the LTD will be ready, so here’s a quick update:
 
@@ -14,7 +14,7 @@ We want to make sure everything works smoothly and that the setup is clear and s
 
 ## 🔐 What You Should Know in Advance
 
-When the LTD goes live, **you’ll need to connect MassProspecting to your own API keys** for the following services:
+When the LTD goes live, **you’ll need to connect ConnectionSphere to your own API keys** for the following services:
 
 - **OpenAI** – for generating personalized outreach messages  
 - **Apollo.io** – for email enrichment and contact data  

@@ -44,4 +44,4 @@ It is not possible to edit your existing order.
 
 ---
 
-If you're unsure how to fix a paused order, feel free to [contact support](https://wa.me/5491150612148?text=Hello!%20I%27m%20interested%20in%20MassProspecting!.) — we're here to help!
+If you're unsure how to fix a paused order, feel free to [contact support](https://wa.me/5491150612148?text=Hello!%20I%27m%20interested%20in%20ConnectionSphere!.) — we're here to help!

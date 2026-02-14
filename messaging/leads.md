@@ -7,8 +7,8 @@ The Leads section is your central hub for managing all prospects discovered thro
 ## Step-by-Step Leads Management Guide
 
 ### 1. Access Your Campaigns
-Navigate to the campaigns page in your MassProspecting dashboard:
-**https://massprospecting.com/app/campaigns**
+Navigate to the campaigns page in your ConnectionSphere dashboard:
+**https://connectionsphere.com/app/campaigns**
 
 ### 2. Locate Your Campaign
 Find the campaign containing the leads you want to manage from your list of existing campaigns. Each campaign card displays key metrics like:

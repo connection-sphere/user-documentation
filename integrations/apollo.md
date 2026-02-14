@@ -2,19 +2,19 @@
 
 ![Integrations Overview](../assets/apollo-01.png)
 
-Apollo.io serves as our primary data enrichment engine within MassProspecting. We don't use Apollo to find leads initially. Instead, we use it to *append critical contact information*—like verified email addresses, direct dial phone numbers, and other professional details—to the high-intent leads we've already identified and scraped from LinkedIn.
+Apollo.io serves as our primary data enrichment engine within ConnectionSphere. We don't use Apollo to find leads initially. Instead, we use it to *append critical contact information*—like verified email addresses, direct dial phone numbers, and other professional details—to the high-intent leads we've already identified and scraped from LinkedIn.
 
 ## Step-by-Step Connection Guide
 
 ### 1. Access the Integrations Page
-Navigate to the Apollo integration page in your MassProspecting dashboard:
-**https://massprospecting.com/app/integrations/apollo**
+Navigate to the Apollo integration page in your ConnectionSphere dashboard:
+**https://connectionsphere.com/app/integrations/apollo**
 
 ### 2. Check Available Slots
 On the integrations page, you'll see a list of available services, including Apollo.io. The interface shows:
 
 *   **Self-service slots (`self`)**: Available for your own API connections (marked with dashed borders).
-*   **DFY slots (`fly` or `dly`)**: Managed by the MassProspecting team (will be filled for you).
+*   **DFY slots (`fly` or `dly`)**: Managed by the ConnectionSphere team (will be filled for you).
 
 ![Integration Slots](../assets/apollo-03.png)
 
@@ -35,7 +35,7 @@ You'll be prompted to enter your Apollo API Key.
 1.  Log into your Apollo account at [https://app.apollo.io](https://app.apollo.io).
 2.  Navigate to **Settings** -> **API**.
 3.  Click **Generate New Key**.
-4.  Copy the generated key and paste it into the field in MassProspecting.
+4.  Copy the generated key and paste it into the field in ConnectionSphere.
 5.  Click **Connect Apollo.io** to complete the connection.
 
 > For detailed Apollo API documentation, visit their official guide: [Apollo API Docs](https://apolloio.github.io/apollo-api-docs/).

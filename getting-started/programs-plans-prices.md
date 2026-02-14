@@ -1,6 +1,6 @@
 # Programs, Plans and Prices
 
-👉 **Plans & Pricing:** [massprospecting.com/main#pricing](https://massprospecting.com/main#pricing)  
+👉 **Plans & Pricing:** [connectionsphere.com/main#pricing](https://connectionsphere.com/main#pricing)  
 
 - [What's DFY vs. SaaS?](#whats-dfy-vs-saas)
 - [Scraping DFY](#1-scraping-dfy)
@@ -18,7 +18,7 @@
 ## 1. Scraping DFY 
 *"We scrape. You celebrate."*  
 
-![Scraping DFY plan of MassProspecting](../assets/plans-01.png)
+![Scraping DFY plan of ConnectionSphere](../assets/plans-01.png)
 
 **Perfect for:** Businesses who want **ready-to-use contact data** (emails, LinkedIn profiles, etc.) without lifting a finger.  
 
@@ -40,7 +40,7 @@
 ## 2. Outreach SaaS
 *"You're in the driver's seat."*  
 
-![Outreach SaaS plan of MassProspecting](../assets/plans-02.png)
+![Outreach SaaS plan of ConnectionSphere](../assets/plans-02.png)
 
 **Perfect for:** Teams who **love control** and want to manage outreach manually (but with slick tools).  
 
@@ -68,7 +68,7 @@
 ## 3. Outreach DFY
 *"We do everything. You take credit."*  
 
-![Outreach DFY plan of MassProspecting](../assets/plans-03.png)
+![Outreach DFY plan of ConnectionSphere](../assets/plans-03.png)
 
 **Perfect for:** Busy pros who want **hands-free campaigns** (scraping, emails, follow-ups—all automated).  
 
@@ -101,7 +101,7 @@
 - **$1 Trial:** Test-drive with 20 credits (7 days).  
 - **Apollo/Reoon Integrations:** Sync with your favorite tools.  
 
-**👉 Ready to Level Up?** [Check Out Pricing](https://massprospecting.com/main#pricing)  
+**👉 Ready to Level Up?** [Check Out Pricing](https://connectionsphere.com/main#pricing)  
 
 --- 
 

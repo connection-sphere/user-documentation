@@ -19,7 +19,7 @@ Our FAQ covers topics like:
 
 If you couldn't find the answer in our FAQ or need personalized assistance, our support team is ready to help!
 
-**Email us at:** [support@massprospecting.zohodesk.com](mailto:support@massprospecting.zohodesk.com)
+**Email us at:** [support@connectionsphere.zohodesk.com](mailto:support@connectionsphere.zohodesk.com)
 
 We typically respond within **24 hours** for general inquiries.
 
@@ -42,4 +42,4 @@ Our support team is available:
 - **Saturday:** 10:00 AM - 4:00 PM EST
 - **Sunday:** Emergency support only
 
-We're committed to helping you get the most out of MassProspecting! 💪
+We're committed to helping you get the most out of ConnectionSphere! 💪

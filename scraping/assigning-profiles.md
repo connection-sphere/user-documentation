@@ -7,8 +7,8 @@ Profile assignment is a critical step in launching your outreach campaigns. By c
 ## Step-by-Step Profile Assignment Guide
 
 ### 1. Access Your Campaigns
-Navigate to the campaigns page in your MassProspecting dashboard:
-**https://massprospecting.com/app/campaigns**
+Navigate to the campaigns page in your ConnectionSphere dashboard:
+**https://connectionsphere.com/app/campaigns**
 
 ### 2. Locate Your Campaign
 Find the campaign you want to configure from your list of existing campaigns. Each campaign card displays key metrics like leads discovered, processing status, and valid emails found.

@@ -2,19 +2,19 @@
 
 ![Integrations Overview](../assets/gmail-01.png)
 
-GMail integration is your outreach engine. Connecting your GMail accounts allows MassProspecting to send personalized cold emails, track replies, and manage conversations directly from your inbox. This setup is crucial for running effective email campaigns while maintaining control over your sending domains.
+GMail integration is your outreach engine. Connecting your GMail accounts allows ConnectionSphere to send personalized cold emails, track replies, and manage conversations directly from your inbox. This setup is crucial for running effective email campaigns while maintaining control over your sending domains.
 
 ## Step-by-Step Connection Guide
 
 ### 1. Access the Integrations Page
-Navigate to the GMail integration page in your MassProspecting dashboard:
-**https://massprospecting.com/app/integrations/gmail**
+Navigate to the GMail integration page in your ConnectionSphere dashboard:
+**https://connectionsphere.com/app/integrations/gmail**
 
 ### 2. Check Available Slots
 On the integrations page, you'll see the status of the GMail service. The interface shows:
 
 *   **Self-service slots (`self`)**: Available for your own email connections (marked for setup)
-*   **DFY slots (`fly`)**: Managed by the MassProspecting team (will be filled for you)
+*   **DFY slots (`fly`)**: Managed by the ConnectionSphere team (will be filled for you)
 
 The notation indicates:
 *   `(self: X/Y)` - Your available/used self-service slots (e.g., `0/4` means 0 used, 4 available)
@@ -40,7 +40,7 @@ You'll be prompted to enter your GMail address and an App Password (not your reg
     *   Return to the Google Account security page
     *   Under "2-Step Verification," find **App passwords**
     *   Sign in again if prompted
-    *   Select **Mail** as the app and **Other** as the device (you can name it "MassProspecting")
+    *   Select **Mail** as the app and **Other** as the device (you can name it "ConnectionSphere")
     *   Click **Generate**
     *   Copy the 16-character password that appears
 
@@ -53,7 +53,7 @@ You'll be prompted to enter your GMail address and an App Password (not your reg
 > For detailed Google documentation, visit: [Sign in with App Passwords](https://support.google.com/accounts/answer/185833)
 
 ### 5. Complete the Connection
-Paste the 16-character App Password (not your regular Gmail password) into the MassProspecting field and click **Connect GMail**.
+Paste the 16-character App Password (not your regular Gmail password) into the ConnectionSphere field and click **Connect GMail**.
 
 ### 6. Managing Your Connections
 To release an occupied slot (e.g., to remove an email account), click the **Disconnect** button associated with that specific slot.

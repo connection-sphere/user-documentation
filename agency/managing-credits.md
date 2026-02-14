@@ -6,7 +6,7 @@ Keep track of your active subscriptions and ensure your campaigns run smoothly.
 
 ## Viewing Subscriptions
 
-1. Go to the agency dashboard at [massprospecting.com/app/agency](https://massprospecting.com/app/agency).  
+1. Go to the agency dashboard at [connectionsphere.com/app/agency](https://connectionsphere.com/app/agency).  
 2. Locate the **Active Subscriptions** section.  
    - Here, you can view details like the subscription plan, start date, and monthly cost.
 

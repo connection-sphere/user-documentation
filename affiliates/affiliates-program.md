@@ -1,6 +1,6 @@
 # Affiliates Program
 
-Want to earn passive income while spreading the word about MassProspecting?
+Want to earn passive income while spreading the word about ConnectionSphere?
 
 Join our affiliate program and earn a 15% recurring commission for every customer you refer — for life.
 
@@ -58,7 +58,7 @@ You’ll also see a live breakdown of your affiliate performance:
 
 - 🎯 Target cold email agencies, closers, and prospecting freelancers
 - 📽️ Share your experience in a short Loom or Tweet
-- 🧠 Create a quick-use guide to help others succeed with MassProspecting
+- 🧠 Create a quick-use guide to help others succeed with ConnectionSphere
 
 Earn while helping others grow their outreach.
 

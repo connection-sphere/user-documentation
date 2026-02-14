@@ -3,7 +3,7 @@
 Once you’ve placed a scraping order, you can track its performance and manage it from your dashboard.
 
 You can check all your orders here:
-[https://massprospecting.com/app/campaigns](https://massprospecting.com/app/campaigns)
+[https://connectionsphere.com/app/campaigns](https://connectionsphere.com/app/campaigns)
 
 ---
 
@@ -45,7 +45,7 @@ The CSV file includes:
 - LinkedIn profile URL
 - Company, title, and more
 
-You can upload this file into your outreach tool — or import it back into MassProspecting to launch campaigns.
+You can upload this file into your outreach tool — or import it back into ConnectionSphere to launch campaigns.
 
 ---
 

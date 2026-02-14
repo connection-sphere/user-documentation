@@ -2,7 +2,7 @@
 Effective Date: 07/21/2024
 
 ### Introduction
-MassProspecting ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and share information about you when you use our website located at [massprospecting.com](https://massprospecting.com) (the "Site") and the MassProspecting service (collectively, the "Service").
+ConnectionSphere ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and share information about you when you use our website located at [connectionsphere.com](https://connectionsphere.com) (the "Site") and the ConnectionSphere service (collectively, the "Service").
 
 By using the Service, you agree to the collection and use of information in accordance with this Privacy Policy. If you do not agree with our policies and practices, do not use the Service.
 
@@ -60,15 +60,15 @@ Depending on your location, you may have the following rights regarding your per
 
 - **Objection:** You can object to the processing of your personal information.
 
-To exercise any of these rights, please contact us at [hello@massprospecting.com](mailto:hello@massprospecting.com). We will respond to your request within a reasonable timeframe.
+To exercise any of these rights, please contact us at [hello@connectionsphere.com](mailto:hello@connectionsphere.com). We will respond to your request within a reasonable timeframe.
 
 ### Third-Party Links
-The Service may contain links to third-party websites or services that are not owned or controlled by MassProspecting. We are not responsible for the privacy practices of these third parties. We encourage you to review the privacy policies of any third-party websites or services you visit.
+The Service may contain links to third-party websites or services that are not owned or controlled by ConnectionSphere. We are not responsible for the privacy practices of these third parties. We encourage you to review the privacy policies of any third-party websites or services you visit.
 
 ### Changes to This Privacy Policy
 We may update this Privacy Policy from time to time. If we make material changes, we will notify you by email or by posting a notice on the Site prior to the changes becoming effective. Your continued use of the Service after any such changes constitutes your acceptance of the new Privacy Policy.
 
 ### Contact Us
-If you have any questions about this Privacy Policy, please contact us at (hello@massprospecting.com)[mailto:hello@massprospecting.com].
+If you have any questions about this Privacy Policy, please contact us at (hello@connectionsphere.com)[mailto:hello@connectionsphere.com].
 
 Effective Date: 07/21/2024

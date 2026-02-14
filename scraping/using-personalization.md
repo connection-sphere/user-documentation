@@ -2,13 +2,13 @@
 
 Personalization is the key to effective cold outreach.
 
-With MassProspecting, each lead you scrape comes with AI-generated personalization snippets — ready to be used as merge-tags in your outreach platform.
+With ConnectionSphere, each lead you scrape comes with AI-generated personalization snippets — ready to be used as merge-tags in your outreach platform.
 
 ---
 
 ## What Are Personalization Fields?
 
-After analyzing each lead's post, MassProspecting generates dynamic content based on the post's content and tone.
+After analyzing each lead's post, ConnectionSphere generates dynamic content based on the post's content and tone.
 
 These fields appear in the download CSV as column headers like:
 

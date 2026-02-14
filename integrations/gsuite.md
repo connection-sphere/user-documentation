@@ -7,14 +7,14 @@ GSuite (now Google Workspace) integration is designed for scaling your outreach 
 ## Step-by-Step Connection Guide
 
 ### 1. Access the Integrations Page
-Navigate to the GSuite integration page in your MassProspecting dashboard:
-**https://massprospecting.com/app/integrations/gsuite**
+Navigate to the GSuite integration page in your ConnectionSphere dashboard:
+**https://connectionsphere.com/app/integrations/gsuite**
 
 ### 2. Check Available Slots
 On the integrations page, you'll see the status of the GSuite service with available connection slots:
 
 *   **Self-service slots (`self`)**: Available for your professional email connections
-*   **DFY slots (`dy`)**: Managed by the MassProspecting team
+*   **DFY slots (`dy`)**: Managed by the ConnectionSphere team
 
 The notation indicates:
 *   `(self: X/Y)` - Your available/used self-service slots (typically 0/4 available when starting)
@@ -40,7 +40,7 @@ You'll be prompted to enter your GSuite (Google Workspace) email address and an 
     *   Go to your Google Account security page: [https://myaccount.google.com/security](https://myaccount.google.com/security)
     *   Under "Signing in to Google," select **2-Step Verification**
     *   Scroll down to "App passwords" and click on it
-    *   Select **Mail** as the app and **Other** as the device (name it "MassProspecting")
+    *   Select **Mail** as the app and **Other** as the device (name it "ConnectionSphere")
     *   Click **Generate**
     *   Copy the 16-character password that appears
 
@@ -53,7 +53,7 @@ You'll be prompted to enter your GSuite (Google Workspace) email address and an 
 > For detailed Google Workspace documentation, visit: [Use App Passwords with Google Workspace](https://support.google.com/a/answer/9004345)
 
 ### 5. Complete the Connection
-Paste the 16-character App Password into the MassProspecting field and click **Connect GSuite**.
+Paste the 16-character App Password into the ConnectionSphere field and click **Connect GSuite**.
 
 ### 6. Managing Your Connections
 To release an occupied slot (to remove or replace an email account), click the **Disconnect** button associated with that specific slot.

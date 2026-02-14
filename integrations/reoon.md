@@ -11,14 +11,14 @@ This two-step process ensures you only launch email campaigns with enriched, ver
 ## Step-by-Step Connection Guide
 
 ### 1. Access the Integrations Page
-Navigate to the Reoon integration page in your MassProspecting dashboard:
-**https://massprospecting.com/app/integrations/reoon**
+Navigate to the Reoon integration page in your ConnectionSphere dashboard:
+**https://connectionsphere.com/app/integrations/reoon**
 
 ### 2. Check Available Slots
 On the integrations page, you'll see a list of available services, including Reoon. The interface shows:
 
 *   **Self-service slots (`self`)**: Available for your own API connections.
-*   **DFY slots (`dly` or `fly`)**: Managed by the MassProspecting team (will be filled for you).
+*   **DFY slots (`dly` or `fly`)**: Managed by the ConnectionSphere team (will be filled for you).
 
 ![Integration Slots Status](../assets/reoon-03.png)
 
@@ -39,7 +39,7 @@ You'll be prompted to enter your Reoon API Key in the modal that appears.
 1.  Log into your Reoon Email Verifier account at [https://app.reoon.com](https://app.reoon.com).
 2.  Navigate to your **Account** or **API Settings** section.
 3.  Look for the option to **Generate** or **View** your API Key.
-4.  Copy the generated key and paste it into the field in MassProspecting.
+4.  Copy the generated key and paste it into the field in ConnectionSphere.
 5.  Click **Connect Reoon** to complete the connection.
 
 > For detailed Reoon API documentation, visit their official guide: [Reoon API Documentation](https://docs.reoon.com/email-verifier-api/).

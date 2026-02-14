@@ -8,10 +8,10 @@ This guide will help you place your first scraping order in just a few minutes.
 
 ## Overview
 
-In MassProspecting, scraping orders allow you to automate lead generation by specifying the type of people and posts you want to target on LinkedIn.
+In ConnectionSphere, scraping orders allow you to automate lead generation by specifying the type of people and posts you want to target on LinkedIn.
 
 You can place your scraping order here:
-[https://massprospecting.com/app/campaigns/new/linkedin-feed-signals](https://massprospecting.com/app/campaigns/new/linkedin-feed-signals)
+[https://connectionsphere.com/app/campaigns/new/linkedin-feed-signals](https://connectionsphere.com/app/campaigns/new/linkedin-feed-signals)
 
 Placing an order involves 3 steps:
 
@@ -33,7 +33,7 @@ You can also filter by job title and industry to better target the authors of th
 
 ## Step 2 – Enrich with Data Points
 
-MassProspecting appends extra information to each lead, such as:
+ConnectionSphere appends extra information to each lead, such as:
 
 - Valid Email Address ✅
 - Direct Phone Number ✅
@@ -55,9 +55,9 @@ You can refine your leads with additional filters like country or company size:
 
 ## Step 3 – Generate a Personalized Script
 
-Using AI, MassProspecting creates a message for each lead based on their actual post.
+Using AI, ConnectionSphere creates a message for each lead based on their actual post.
 
-MassProspecting will show a sample LinkedIn post that you can use to try your AI prompt for generating a personalized message.
+ConnectionSphere will show a sample LinkedIn post that you can use to try your AI prompt for generating a personalized message.
 
 ![Step 3 Sample LinkedIn Post](../assets/linkedin-feed-signals-07.png)
 

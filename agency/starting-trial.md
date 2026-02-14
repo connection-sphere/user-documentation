@@ -6,7 +6,7 @@ After [signing up](../getting-started/user-login.md) or [logging in](../getting-
 
 ## Steps
 
-1. Go to [massprospecting.com/app/agency](https://massprospecting.com/app/agency)  
+1. Go to [connectionsphere.com/app/agency](https://connectionsphere.com/app/agency)  
    - You will be redirected here automatically after signup or login.
 
 2. Pick a plan that suits your needs.  
@@ -15,7 +15,7 @@ After [signing up](../getting-started/user-login.md) or [logging in](../getting-
 
 3. Click the **Subscribe** button.  
    - You will be redirected to PayPal to complete your transaction securely.  
-   - MassProspecting does not store or see your credit card information.
+   - ConnectionSphere does not store or see your credit card information.
 
 ![Subscribing to a Trial](../assets/starting-trial-01.png)
 

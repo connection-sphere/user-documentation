@@ -1,13 +1,13 @@
 # Signing Up
 
-Getting started with MassProspecting takes only a few seconds.
+Getting started with ConnectionSphere takes only a few seconds.
 
 ## Steps
 
-1. Go to [massprospecting.com](https://massprospecting.com)  
+1. Go to [connectionsphere.com](https://connectionsphere.com)  
 2. Enter your email address and submit  
 
-![Signin Up to MassProspecting](../assets/signin-up-01.png)
+![Signin Up to ConnectionSphere](../assets/signin-up-01.png)
 
 ---
 

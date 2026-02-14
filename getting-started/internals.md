@@ -1,30 +1,30 @@
-## MassProspecting Internals
+## ConnectionSphere Internals
 
 You you are getting started...
 
-- [🚀 Try MassProspecting here](https://massprospecting.com).
-- [📚 Find More Documentation](https://github.com/MassProspecting/docs).
-- [👥 Join Our Facebook Group](https://www.facebook.com/groups/massprospecting).
-- [🔗 Follow Us on LinkedIn](https://www.linkedin.com/company/massprospecting).
+- [🚀 Try ConnectionSphere here](https://connectionsphere.com).
+- [📚 Find More Documentation](https://github.com/connection-sphere/docs).
+- [👥 Join Our Facebook Group](https://www.facebook.com/groups/connection-sphere).
+- [🔗 Follow Us on LinkedIn](https://www.linkedin.com/company/connection-sphere).
 
 If you are a **Developer**:
 
-- [💻 Check out our SDK](https://github.com/MassProspecting/mass-sdk) _(private access)_.
-- [🔌 Check out our API client](https://github.com/massprospecting/mass-client).
-- [⭐️ Follow MassProspecting on GitHub](https://github.com/MassProspecting).
+- [💻 Check out our SDK](https://github.com/connection-sphere/mass-sdk) _(private access)_.
+- [🔌 Check out our API client](https://github.com/connection-sphere/mass-client).
+- [⭐️ Follow ConnectionSphere on GitHub](https://github.com/connection-sphere).
 
-If you are part of the **MassProspecting Team**, helping us to develop this wonderful product:
+If you are part of the **ConnectionSphere Team**, helping us to develop this wonderful product:
 
-- [🛠️ Learn the MassProspecting Architecture](https://github.com/MassProspecting/docs/blob/main/internals/01-architecture.md).
-- [🖥️ Learn How to Install Your MassProspecting Environment](https://github.com/MassProspecting/docs/blob/main/internals/02-installation.md).
-- [🧩 Data Model](https://github.com/MassProspecting/docs/blob/main/internals/03-data-model.md).
-- [🧪 QA Operations](https://github.com/MassProspecting/docs/blob/main/internals/04-qa-operations.md).
+- [🛠️ Learn the ConnectionSphere Architecture](https://github.com/connection-sphere/docs/blob/main/internals/01-architecture.md).
+- [🖥️ Learn How to Install Your ConnectionSphere Environment](https://github.com/connection-sphere/docs/blob/main/internals/02-installation.md).
+- [🧩 Data Model](https://github.com/connection-sphere/docs/blob/main/internals/03-data-model.md).
+- [🧪 QA Operations](https://github.com/connection-sphere/docs/blob/main/internals/04-qa-operations.md).
 
 ## Features
 
-Introducing some of the features of MassProspecting.
+Introducing some of the features of ConnectionSphere.
 
-1. [MassProspecting Lead Scraping Features](#massprospecting-lead-scraping-features)
+1. [ConnectionSphere Lead Scraping Features](#connectionsphere-lead-scraping-features)
 2. [Automation Rules for Lead Processing](#2-automation-rules-for-lead-processing)
 3. [Unibox Communication Management](#3-unibox-communication-management)
 4. [Marketplace for Sales Assistants](#4-marketplace-for-sales-assistants)
@@ -33,11 +33,11 @@ Introducing some of the features of MassProspecting.
 
 ### 1. Lead Scraping Sources Overview
 
-MassProspecting provides several automated lead scraping features that simplify the process of gathering data from various platforms. Below are some of the key features shown in the screenshots:
+ConnectionSphere provides several automated lead scraping features that simplify the process of gathering data from various platforms. Below are some of the key features shown in the screenshots:
 
 ![Lead Scraping Sources Overview](../assets/beta-test.1.1%20-%20leads%20scraping%20sources%201.jpeg)
 
-MassProspecting offers multiple lead scraping tools, including:
+ConnectionSphere offers multiple lead scraping tools, including:
 
 - **Apollo PeopleSearch**: Run an Apollo search using RPA to get email, company, and LinkedIn information.
 - **Facebook GroupPosts**: Scrape posts from Facebook groups you’re a part of, including post content, leads, and images.
@@ -45,7 +45,7 @@ MassProspecting offers multiple lead scraping tools, including:
 
 ### 2. Automation Rules for Lead Processing
 
-MassProspecting also provides an automation rules feature that allows you to create custom workflows for lead processing. These workflows can include actions, filters, and triggers to help automate the handling of scraped data.
+ConnectionSphere also provides an automation rules feature that allows you to create custom workflows for lead processing. These workflows can include actions, filters, and triggers to help automate the handling of scraped data.
 
 #### 2.1 Rule Management Overview
 
@@ -73,7 +73,7 @@ These features allow for powerful automation capabilities, making lead managemen
 
 ### 3. Unibox Communication Management
 
-The Unibox feature in MassProspecting provides a consolidated interface for managing communication with leads from different channels.
+The Unibox feature in ConnectionSphere provides a consolidated interface for managing communication with leads from different channels.
 
 ![Unibox Communication Management](../assets/beta-test.3.1%20-%20unibox.jpeg)
 
@@ -93,7 +93,7 @@ The Unibox feature ensures that you never miss an important message and can effi
 
 ### 4. Marketplace of Profiles
 
-The MassProspecting Marketplace allows you to rent access to other people's social accounts and use them as your "Sales Assistants" to boost your outreach capabilities.
+The ConnectionSphere Marketplace allows you to rent access to other people's social accounts and use them as your "Sales Assistants" to boost your outreach capabilities.
 
 ![Marketplace for Profiles](../assets/beta-test.4.1%20-%20marketplace%20of%20sending%20profiles.jpeg)
 
@@ -114,7 +114,7 @@ This feature is designed to make your sales outreach more efficient by increasin
 
 ### 5. Profiles Dashboard
 
-The Profiles Dashboard in MassProspecting provides a centralized view of all available profiles used for outreach, enrichment, scraping, and other RPA activities. 
+The Profiles Dashboard in ConnectionSphere provides a centralized view of all available profiles used for outreach, enrichment, scraping, and other RPA activities. 
 
 ![Profiles Dashboard](../assets/beta-test.5.1%20-%20sending%20profiles%20dashboard.jpeg)
 
@@ -137,7 +137,7 @@ The Profiles Dashboard allows users to effectively manage and track the various 
 
 ### 6. Leads Management
 
-MassProspecting provides a comprehensive Leads Management system, enabling you to organize, filter, and tag leads to streamline your outreach and engagement processes.
+ConnectionSphere provides a comprehensive Leads Management system, enabling you to organize, filter, and tag leads to streamline your outreach and engagement processes.
 
 #### 6.1 Lead Overview and Search Filters
 
@@ -154,4 +154,4 @@ MassProspecting provides a comprehensive Leads Management system, enabling you t
 - **Add and Remove Tags**: Tags can be added to leads to better organize them based on specific attributes, making it easier to manage campaigns and target specific groups.
 - **Create New Tags**: You can create new tags as needed to categorize leads in a customized manner. This allows for flexibility in organizing leads based on changing campaign requirements.
 
-The Leads Management feature in MassProspecting helps ensure that you have a structured and organized way of handling your leads, allowing for more effective segmentation and targeted outreach.
+The Leads Management feature in ConnectionSphere helps ensure that you have a structured and organized way of handling your leads, allowing for more effective segmentation and targeted outreach.

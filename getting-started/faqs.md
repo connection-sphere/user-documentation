@@ -4,7 +4,7 @@
 
 ### 🔐 Should I connect my own LinkedIn account for scraping?
 
-If you joined one of our DFY programs, then no. MassProspecting provides built-in LinkedIn and Email accounts for scraping and sending messages, so you don’t need to connect or risk your personal account.
+If you joined one of our DFY programs, then no. ConnectionSphere provides built-in LinkedIn and Email accounts for scraping and sending messages, so you don’t need to connect or risk your personal account.
 
 This keeps your LinkedIn profile safe while still getting fresh, real-time data from the platform.
 
