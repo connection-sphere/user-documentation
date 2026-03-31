@@ -4,7 +4,7 @@ The **LinkedIn Public Feed** workflow is designed to discover and qualify opport
 
 This workflow is usually strongest for **solo-preneurs, founders, independent professionals, and small teams** who are visibly active in public conversations.
 
-If your main goal is to target **larger companies at scale**, use the **[LinkedIn Ad Library](./linkedin-ad-library.md)** workflow instead.
+If your main goal is to target **larger companies at scale**, use the **[LinkedIn Ad Library](linkedin-ad-library.md)** workflow instead.
 
 ## High-Level Flow
 
