@@ -9,6 +9,10 @@
   - [Creating New Campaign](agency/creating-campaign.md)
   - [Settings](agency/settings.md)
 
+- **Reference Workflows**
+  - [LinkedIn Public Feed](reference-workflows/linkedin-public-feed.md)
+  - [LinkedIn Ad Library](reference-workflows/linkedin-ad-library.md)
+
 - **Legal**
   - [Terms & Conditions](legal/terms.md)
   - [Privacy Policy](legal/privacy.md)
