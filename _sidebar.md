@@ -10,6 +10,8 @@
   - [Settings](agency/settings.md)
 
 - **Reference Workflows**
+  - [Introduction](reference-workflows/introduction.md)
+  - [Naming Convention](reference-workflows/naming-convention.md)
   - [LinkedIn Public Feed](reference-workflows/linkedin-public-feed.md)
   - [LinkedIn Ad Library](reference-workflows/linkedin-ad-library.md)
 
